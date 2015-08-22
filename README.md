@@ -1,3 +1,21 @@
+1. On a scale of 1-10 rate the workshop:
+   Ima give the course a 10
+
+2. Things from today I liked:
+  -Fast paced (but with log/history for catchups...)
+  -Hands on teaching: These are hard skills, not academia; hands on is really the best way to teach. :)
+  -Beth was very helpful and knowledgeable
+
+3. Things from today that I would improve:
+  -I wouldn't feel like I'm getting a cold.
+  -Tapping would be disable-able in Win10 (no way of describing the angst...)
+
+  Honestly, I really like the course. I don't think I'd make any changes.
+
+
+
+
+
 Unix & Git for Everyone (Portland, August 22, 2015)
 --------------------------------------------------
 
